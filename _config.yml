@@ -1,6 +1,6 @@
 name: FinWorld
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.7432
 cta:
   domain: null
   bucket: null
@@ -14,8 +14,13 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0
+  brandColors:
+    - '#035599'
+    - '#000000'
+    - '#fefefe'
+    - '#5685b7'
+    - '#bbc3d8'
+  brandStrength: 0.5
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
